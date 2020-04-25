@@ -1,12 +1,3 @@
-# PLEX Export
-
-Luke Lanchester <luke@lukelanchester.com>
-http://hybridlogic.co.uk/code/standalone/plex-export/
-
-
-> Please note: Plex Export is no longer under active development. Use at your own risk.
-
-
 ## Summary
 
 Plex Export allows you to produce an HTML page with information on the media contained within your Plex library. This page can then be shared publicly without requiring access to the original Plex server.
